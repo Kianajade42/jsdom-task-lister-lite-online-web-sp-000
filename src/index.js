@@ -8,5 +8,5 @@ document.addEventListener("DOMContentLoaded", () => {
 
   //attach event listeners
   newTaskForm.addEventListener("submit", createNewTask);
-  
+
 });
